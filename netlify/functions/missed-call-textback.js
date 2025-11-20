@@ -15,7 +15,7 @@ const client = twilio(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN);
 const CLIENTS = {
   "+18665517715": {
     name: "Demo Contractor",
-    forwardTo: "+1YOUR_REAL_CELL",  // <-- we will update this later
+    forwardTo: "8153568280",  // <-- we will update this later
     textTemplate:
       "Hey, sorry we missed your call. Reply here and we'll text you back ASAP!"
   }
