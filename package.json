@@ -1,0 +1,7 @@
+{
+  "name": "missed-call-textback",
+  "version": "1.0.0",
+  "dependencies": {
+    "twilio": "^4.21.0"
+  }
+}
